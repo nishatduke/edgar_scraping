@@ -1,5 +1,5 @@
 # Historical Sentiment Analysis of SEC Filings
-
+# README STILL IN CONSTRUTION, JUST A TEMPLATE FOR NOW :)
 ## Overview
 This project aims to analyze the sentiment of SEC filings for public companies and correlate it with their stock performance over subsequent days. By leveraging the EDGAR database, the tool extracts historical filings, evaluates sentiment using various models starting with LLAMA, and predicts stock price movements 1, 7, and 30 days post-filing.
 
@@ -25,7 +25,7 @@ This project aims to analyze the sentiment of SEC filings for public companies a
 ### Installation
 Clone the repository and install the dependencies.
 ```bash
-git clone https://github.com/your-username/sec-sentiment-analysis.git
+git clone https://github.com/nishatduke/sec-sentiment-analysis.git
 cd sec-sentiment-analysis
 # Install Python dependencies
 pip install -r requirements.txt
